@@ -981,13 +981,13 @@ function syncDims(dims){
 }
 syncDims(defaultDims());
 
-const STORE = 'heyue-wangyun-design-v1';       // 与其他户型工程的本地存档分开
+const STORE = 'heyue-wangyun-design-v2';       // v2：忽略 v1 旧存档一次，使 plan.json 成为默认方案
 function load(){
   try { const s = JSON.parse(localStorage.getItem(STORE)); if (s && Array.isArray(s.furniture)) return fixState(s); } catch(e) {}
   return null;
 }
 function fixState(s){
-  const d = baseState();
+  const d = defaultState();                      // 基准 = 内置默认（不能调 baseState，否则和 plan.json 相互递归）
   s.rooms = Object.assign(d.rooms, s.rooms || {});
   s.dims = mergeDims(s.dims);
   // 早期版本的默认布置里有一件家具把颜色写成了旋转角度；这里顺手修复，并丢掉尺寸不是数字的家具

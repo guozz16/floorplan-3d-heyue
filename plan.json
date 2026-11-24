@@ -1,0 +1,702 @@
+{
+  "furniture": [
+    {
+      "id": "fmwuoz09u213",
+      "type": "bed",
+      "name": "双人床",
+      "cx": 1000.0000000000001,
+      "cy": 1170,
+      "w": 1500,
+      "d": 2000,
+      "rot": 270,
+      "color": "#d8c7dc"
+    },
+    {
+      "id": "fmwuoz09u214",
+      "type": "nightstand",
+      "name": "床头柜",
+      "cx": 225,
+      "cy": 200,
+      "w": 450,
+      "d": 400,
+      "rot": 0,
+      "color": "#e8dccb"
+    },
+    {
+      "id": "fmwuoz09u215",
+      "type": "nightstand",
+      "name": "床头柜",
+      "cx": 225,
+      "cy": 2140,
+      "w": 450,
+      "d": 400,
+      "rot": 0,
+      "color": "#e8dccb"
+    },
+    {
+      "id": "fmwuoz09u216",
+      "type": "wardrobe",
+      "name": "衣柜",
+      "cx": 815,
+      "cy": 2820,
+      "w": 1610,
+      "d": 600,
+      "rot": 180,
+      "color": "#efe6d8"
+    },
+    {
+      "id": "fmwuoz09u220",
+      "type": "desk",
+      "name": "电脑桌",
+      "cx": 5040,
+      "cy": 1500,
+      "w": 1600,
+      "d": 700,
+      "rot": 90,
+      "color": "#d8c2a2"
+    },
+    {
+      "id": "fmwuoz09u221",
+      "type": "officechair",
+      "name": "办公椅",
+      "cx": 4330,
+      "cy": 1500,
+      "w": 620,
+      "d": 620,
+      "rot": 90,
+      "color": "#4a4f55"
+    },
+    {
+      "id": "fmwuoz09u222",
+      "type": "sofa",
+      "name": "沙发床",
+      "cx": 3290,
+      "cy": 1400,
+      "w": 1800,
+      "d": 900,
+      "rot": 270,
+      "color": "#b7c4b0"
+    },
+    {
+      "id": "fmwuoz09u223",
+      "type": "bookshelf",
+      "name": "书架",
+      "cx": 2995,
+      "cy": 2715,
+      "w": 800,
+      "d": 300,
+      "rot": 270,
+      "color": "#e2cfb4"
+    },
+    {
+      "id": "fmwuoz09u224",
+      "type": "cabinet",
+      "name": "矮柜",
+      "cx": 3870,
+      "cy": 175,
+      "w": 1600,
+      "d": 350,
+      "rot": 0,
+      "color": "#efe6d8"
+    },
+    {
+      "id": "fmwuoz09u225",
+      "type": "floorlamp",
+      "name": "落地灯",
+      "cx": 5000,
+      "cy": 250,
+      "w": 450,
+      "d": 450,
+      "rot": 0,
+      "color": "#3d3a34"
+    },
+    {
+      "id": "fmwuoz09u228",
+      "type": "base",
+      "name": "地柜台面",
+      "cx": 6752.5,
+      "cy": 300,
+      "w": 2345,
+      "d": 600,
+      "rot": 0,
+      "color": "#e9e5de"
+    },
+    {
+      "id": "fmwuoz09u229",
+      "type": "counter",
+      "name": "橱柜台面",
+      "cx": 7600,
+      "cy": 1800,
+      "w": 2470,
+      "d": 650,
+      "rot": 90,
+      "color": "#e9e5de"
+    },
+    {
+      "id": "fmwuoz09u230",
+      "type": "base",
+      "name": "地柜台面",
+      "cx": 5880,
+      "cy": 1510,
+      "w": 1820,
+      "d": 600,
+      "rot": 270,
+      "color": "#e9e5de"
+    },
+    {
+      "id": "fmwuoz09u231",
+      "type": "ksink",
+      "name": "水槽",
+      "cx": 6550,
+      "cy": 300,
+      "w": 800,
+      "d": 450,
+      "rot": 0,
+      "color": "#e1e6ea"
+    },
+    {
+      "id": "fmwuoz09u232",
+      "type": "stove",
+      "name": "燃气灶",
+      "cx": 7625,
+      "cy": 1750,
+      "w": 750,
+      "d": 450,
+      "rot": 90,
+      "color": "#dcdcdc"
+    },
+    {
+      "id": "fmwuoz09u233",
+      "type": "fridge",
+      "name": "冰箱",
+      "cx": 5930,
+      "cy": 2770,
+      "w": 700,
+      "d": 700,
+      "rot": 270,
+      "color": "#dfe4e8"
+    },
+    {
+      "id": "fmwuoz09u234",
+      "type": "shower",
+      "name": "淋浴区",
+      "cx": 589.9999999999999,
+      "cy": 4775,
+      "w": 1270,
+      "d": 1000,
+      "rot": 180,
+      "color": "#e4edf2"
+    },
+    {
+      "id": "fmwuoz09u235",
+      "type": "toilet",
+      "name": "马桶",
+      "cx": 350.00000000000006,
+      "cy": 3820,
+      "w": 400,
+      "d": 700,
+      "rot": 270,
+      "color": "#ffffff"
+    },
+    {
+      "id": "fmwuoz09u236",
+      "type": "vanity",
+      "name": "浴室柜",
+      "cx": 1950,
+      "cy": 4955,
+      "w": 980,
+      "d": 640,
+      "rot": 180,
+      "color": "#eef1f3"
+    },
+    {
+      "id": "fmwuoz09u237",
+      "type": "shower",
+      "name": "淋浴房",
+      "cx": -434.9999999999999,
+      "cy": 6355,
+      "w": 1870,
+      "d": 940,
+      "rot": 270,
+      "color": "#e4edf2"
+    },
+    {
+      "id": "fmwuoz09u239",
+      "type": "toilet",
+      "name": "马桶",
+      "cx": 1480,
+      "cy": 6600,
+      "w": 400,
+      "d": 700,
+      "rot": 90,
+      "color": "#ffffff"
+    },
+    {
+      "id": "fmwuoz09u242",
+      "type": "bed",
+      "name": "双人床",
+      "cx": 115,
+      "cy": 10580,
+      "w": 1800,
+      "d": 2000,
+      "rot": 270,
+      "color": "#c9d6df"
+    },
+    {
+      "id": "fmwuoz09u243",
+      "type": "nightstand",
+      "name": "床头柜",
+      "cx": -680,
+      "cy": 9455,
+      "w": 450,
+      "d": 400,
+      "rot": 0,
+      "color": "#e8dccb"
+    },
+    {
+      "id": "fmwuoz09u244",
+      "type": "nightstand",
+      "name": "床头柜",
+      "cx": -680,
+      "cy": 11705,
+      "w": 450,
+      "d": 400,
+      "rot": 0,
+      "color": "#e8dccb"
+    },
+    {
+      "id": "fmwuoz09u245",
+      "type": "wardrobe",
+      "name": "衣柜",
+      "cx": -605,
+      "cy": 8240,
+      "w": 1600,
+      "d": 600,
+      "rot": 270,
+      "color": "#efe6d8"
+    },
+    {
+      "id": "fmwuoz09u246",
+      "type": "wardrobe",
+      "name": "衣柜",
+      "cx": 495,
+      "cy": 8740,
+      "w": 1600,
+      "d": 600,
+      "rot": 0,
+      "color": "#efe6d8"
+    },
+    {
+      "id": "fmwuoz09u251",
+      "type": "sofa",
+      "name": "三人沙发",
+      "cx": 3095,
+      "cy": 10650,
+      "w": 2800,
+      "d": 950,
+      "rot": 270,
+      "color": "#b7c4b0"
+    },
+    {
+      "id": "fmwuoz09u252",
+      "type": "tvstand",
+      "name": "电视柜",
+      "cx": 6100,
+      "cy": 10700,
+      "w": 2600,
+      "d": 400,
+      "rot": 90,
+      "color": "#e2cfb4"
+    },
+    {
+      "id": "fmwuoz09u253",
+      "type": "coffeetable",
+      "name": "茶几",
+      "cx": 4500,
+      "cy": 10700,
+      "w": 1300,
+      "d": 650,
+      "rot": 90,
+      "color": "#e8dccb"
+    },
+    {
+      "id": "fmwuoz09u256",
+      "type": "sidetable",
+      "name": "边几",
+      "cx": 2900,
+      "cy": 12300,
+      "w": 500,
+      "d": 500,
+      "rot": 0,
+      "color": "#d9c3a3"
+    },
+    {
+      "id": "fmwuoz09u257",
+      "type": "plant",
+      "name": "大绿植",
+      "cx": 2950,
+      "cy": 8925,
+      "w": 600,
+      "d": 600,
+      "rot": 0,
+      "color": "#9dbb8c"
+    },
+    {
+      "id": "fmwuoz09u258",
+      "type": "floorlamp",
+      "name": "落地灯",
+      "cx": 6100,
+      "cy": 12250,
+      "w": 450,
+      "d": 450,
+      "rot": 0,
+      "color": "#3d3a34"
+    },
+    {
+      "id": "fmwuoz09u260",
+      "type": "table",
+      "name": "长桌",
+      "cx": 4590,
+      "cy": 5930,
+      "w": 900,
+      "d": 2600,
+      "rot": 0,
+      "color": "#d8c2a2"
+    },
+    {
+      "id": "fmwuoz09u261",
+      "type": "chair",
+      "name": "餐椅",
+      "cx": 3880,
+      "cy": 6830,
+      "w": 450,
+      "d": 480,
+      "rot": 270,
+      "color": "#cfc6b8"
+    },
+    {
+      "id": "fmwuoz09u262",
+      "type": "chair",
+      "name": "餐椅",
+      "cx": 3890,
+      "cy": 5200,
+      "w": 450,
+      "d": 480,
+      "rot": 270,
+      "color": "#cfc6b8"
+    },
+    {
+      "id": "fmwuoz09u263",
+      "type": "chair",
+      "name": "餐椅",
+      "cx": 3890,
+      "cy": 6000,
+      "w": 450,
+      "d": 480,
+      "rot": 270,
+      "color": "#cfc6b8"
+    },
+    {
+      "id": "fmwuoz09u264",
+      "type": "chair",
+      "name": "餐椅",
+      "cx": 5300,
+      "cy": 5980,
+      "w": 450,
+      "d": 480,
+      "rot": 90,
+      "color": "#cfc6b8"
+    },
+    {
+      "id": "fmwuoz09u265",
+      "type": "chair",
+      "name": "餐椅",
+      "cx": 5300,
+      "cy": 5180,
+      "w": 450,
+      "d": 480,
+      "rot": 90,
+      "color": "#cfc6b8"
+    },
+    {
+      "id": "fmwuoz09u269",
+      "type": "laundry",
+      "name": "家政柜",
+      "cx": 7655,
+      "cy": 3855,
+      "w": 990,
+      "d": 540,
+      "rot": 90,
+      "color": "#e6ebee"
+    },
+    {
+      "id": "fmwuoz09u272",
+      "type": "wardrobe",
+      "name": "衣柜",
+      "cx": 7750,
+      "cy": 6618,
+      "w": 1070,
+      "d": 340,
+      "rot": 90,
+      "color": "#efe6d8"
+    },
+    {
+      "id": "fmwuoz09u274",
+      "type": "wardrobe",
+      "name": "玄关柜",
+      "cx": 7750,
+      "cy": 8103,
+      "w": 1490,
+      "d": 350,
+      "rot": 90,
+      "color": "#efe6d8"
+    },
+    {
+      "id": "fmwuoz09u275",
+      "type": "bed",
+      "name": "双人床",
+      "cx": 8290,
+      "cy": 10730,
+      "w": 1800,
+      "d": 2000,
+      "rot": 90,
+      "color": "#e8d5b5"
+    },
+    {
+      "id": "fmwuoz09u276",
+      "type": "nightstand",
+      "name": "床头柜",
+      "cx": 9085,
+      "cy": 9625,
+      "w": 450,
+      "d": 400,
+      "rot": 0,
+      "color": "#e8dccb"
+    },
+    {
+      "id": "fmwuoz09u277",
+      "type": "nightstand",
+      "name": "床头柜",
+      "cx": 9085,
+      "cy": 11835,
+      "w": 450,
+      "d": 400,
+      "rot": 0,
+      "color": "#e8dccb"
+    },
+    {
+      "id": "fmwuoz09u278",
+      "type": "wardrobe",
+      "name": "衣柜",
+      "cx": 8440,
+      "cy": 9120,
+      "w": 1735,
+      "d": 540,
+      "rot": 0,
+      "color": "#efe6d8"
+    },
+    {
+      "id": "fmwutc4j069",
+      "type": "vanity",
+      "name": "双盆浴室柜",
+      "cx": 940,
+      "cy": 5765,
+      "w": 1780,
+      "d": 500,
+      "rot": 0,
+      "color": "#eef1f3"
+    },
+    {
+      "id": "fmwuu1jhp70",
+      "type": "laundry",
+      "name": "家政柜",
+      "cx": 6700,
+      "cy": 6693,
+      "w": 930,
+      "d": 270,
+      "rot": 270,
+      "color": "#e6ebee"
+    },
+    {
+      "id": "fmwuub2nb71",
+      "type": "baycushion",
+      "name": "飘窗垫",
+      "cx": 727.5,
+      "cy": 12360,
+      "w": 500,
+      "d": 3265,
+      "rot": 90,
+      "color": "#e7dccd"
+    },
+    {
+      "id": "fmwuvg04272",
+      "type": "counter",
+      "name": "橱柜台面",
+      "cx": 2325,
+      "cy": 6405,
+      "w": 1770,
+      "d": 510,
+      "rot": 270,
+      "color": "#e9e5de"
+    },
+    {
+      "id": "fmwuvhstr73",
+      "type": "baycushion",
+      "name": "飘窗垫",
+      "cx": 7937.5,
+      "cy": 12360,
+      "w": 500,
+      "d": 2745,
+      "rot": 90,
+      "color": "#e7dccd"
+    },
+    {
+      "id": "fmwuvkecw74",
+      "type": "chair",
+      "name": "餐椅",
+      "cx": 5290,
+      "cy": 6800,
+      "w": 450,
+      "d": 480,
+      "rot": 90,
+      "color": "#cfc6b8"
+    }
+  ],
+  "rooms": {
+    "bed2": {
+      "name": "次卧",
+      "mat": "wood"
+    },
+    "xspace": {
+      "name": "X空间",
+      "mat": "wood"
+    },
+    "kitchen": {
+      "name": "厨房",
+      "mat": "tile600"
+    },
+    "bath2": {
+      "name": "次卫",
+      "mat": "antislip"
+    },
+    "bath1": {
+      "name": "主卫",
+      "mat": "antislip"
+    },
+    "master": {
+      "name": "主卧",
+      "mat": "wood"
+    },
+    "living": {
+      "name": "客厅",
+      "mat": "tile800"
+    },
+    "bed3": {
+      "name": "南次卧",
+      "mat": "wood"
+    },
+    "dining": {
+      "name": "家庭图书馆",
+      "mat": "tile800"
+    },
+    "entry": {
+      "name": "玄关",
+      "mat": "tile800"
+    },
+    "store": {
+      "name": "玄关库",
+      "mat": "tile800"
+    },
+    "bay1": {
+      "name": "主卧飘窗",
+      "mat": "marble"
+    },
+    "bay2": {
+      "name": "南次卧飘窗",
+      "mat": "marble"
+    },
+    "deck": {
+      "name": "设备平台",
+      "mat": "outdoor"
+    }
+  },
+  "demolished": [],
+  "measures": [],
+  "dims": {
+    "x": {
+      "WLi": -905,
+      "WLo": -240,
+      "WUi": 0,
+      "WUo": -240,
+      "n_b2A": 780,
+      "n_b2B": 1615,
+      "d2A": 1680,
+      "d2B": -95,
+      "Pw": 2670,
+      "Pe": 150,
+      "xwA": 250,
+      "xwB": 1600,
+      "Kw": 5390,
+      "Ke": 190,
+      "n_kA": 385,
+      "n_kB": 1170,
+      "i_kB": 1690,
+      "Ei": 7925,
+      "Eo": 240,
+      "stW": -350,
+      "flW": -485,
+      "Tw": 6325,
+      "Te": 240,
+      "s_sA": 425,
+      "s_sB": 1810,
+      "Sw": 9310,
+      "So": 240,
+      "dpW": -200,
+      "s_mA": 665,
+      "s_mB": 2160,
+      "s_lA": 295,
+      "s_lB": 3295,
+      "beW": 1225,
+      "beE": 240,
+      "d1A": 1015,
+      "d1B": 1860,
+      "n_b1B": 570,
+      "b1eW": 1830,
+      "b1eE": 240,
+      "MeW": 2360,
+      "MeE": 240,
+      "p2W": -160
+    },
+    "y": {
+      "Nn": 0,
+      "No": -240,
+      "Bn": 3120,
+      "Bs": 240,
+      "flS": -380,
+      "d2s": 890,
+      "stN": 758,
+      "stS": 250,
+      "w_b2A": 1180,
+      "w_b2B": 560,
+      "DvN": 5275,
+      "DvS": 240,
+      "p2N": -700,
+      "shS": 245,
+      "enS": 5743,
+      "dpN": 140,
+      "st2S": 340,
+      "tN": 6215,
+      "nnN": 1075,
+      "nnS": 200,
+      "B1S": 7290,
+      "B1s": 150,
+      "mN": 360,
+      "sN": 100,
+      "seN": 8610,
+      "seS": 240,
+      "bay": 12110,
+      "Sinn": 500,
+      "Sout": 240
+    }
+  }
+}
